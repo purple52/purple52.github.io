@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://purple52.github.io/sitemap.xml 
+Sitemap: http://code.mulch.me.uk/sitemap.xml 

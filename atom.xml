@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://purple52.github.io/atom.xml" rel="self"/>
-  <link href="http://purple52.github.io/"/>
-  <updated>2014-12-03T15:33:48+00:00</updated>
-  <id>http://purple52.github.io/</id>
+  <title><![CDATA[Code Mulch]]></title>
+  <link href="http://code.mulch.me.uk/atom.xml" rel="self"/>
+  <link href="http://code.mulch.me.uk/"/>
+  <updated>2014-12-03T15:59:02+00:00</updated>
+  <id>http://code.mulch.me.uk/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[David Edwards]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
